@@ -1,10 +1,5 @@
 
-# Analysis and Visualization of Flows in Foursquare Data
-
-  - Author: **Eduardo Graells-Garrido**
-  - Scientific Visualization Group, Barcelona Supercomputing Center
-  - eduardo.graells@bsc.es
-  - http://twitter.com/carnby
+# Analysis and Visualization of Flows from multiple data sources
 
 
 This repository contains code and data to produce the following visualization using http://flowmap.blue:

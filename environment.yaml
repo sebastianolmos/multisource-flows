@@ -1,7 +1,8 @@
-name: iotwins_foursquare
+name: multisource-flows
 channels:
   - conda-forge
   - defaults
+  - free
 dependencies:
   - _libgcc_mutex=0.1=conda_forge
   - _openmp_mutex=4.5=0_gnu
