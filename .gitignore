@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 4sq_2019/*
+data/*
