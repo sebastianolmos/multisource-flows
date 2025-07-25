@@ -1,5 +1,5 @@
 
-# Analysis and Visualization of Flows from multiple data sources
+# Analysis and Visualization of Flows in Santiago from Foursquare Data
 
 
 This repository contains code and data to produce the following visualization using http://flowmap.blue:
