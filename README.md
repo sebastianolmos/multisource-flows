@@ -4,7 +4,7 @@
 
 This repository contains code and data to produce the following visualization using http://flowmap.blue:
 
-![](images/santiago_foursquare_flows_h3.png)
+![](images/santiago_foursquare_flow_h3_fixed.png)
 
 [Here you can see the visualization](https://www.flowmap.blue/1QqhqlwA40PzaRMocTy3BNq3djVLc-n6G5Gifwgeh0ew)
 
@@ -14,7 +14,7 @@ The following notebooks comprise this repository:
   * `01_data_filtering.ipynb`: filter Foursquare data (see _Foursquare Data Set_ below) to analyze venues (places or Points of Interest) and check-ins in the area of interest. We do this using the `dask` library for parallel and out-of-core computation.
   * `02_flow_network.ipynb`: use the filtered data to build a network of places, and generate the input for the visualization.
 
-Libraries we use in all notebooks include `pandas`, `geopandas`, `matplotlib`, and `seaborn`.
+Libraries we use in all notebooks include `pandas`, `geopandas`, `matplotlib`, `seaborn` and `h3`.
 
 ## Foursquare Data Set
 
